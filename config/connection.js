@@ -1,7 +1,9 @@
+require('dotenv').config();
+
 // Import the Sequelize constructor from the library
 const Sequelize = require('sequelize');
 
-require('dotenv').config();
+
 
 // Create connection to our database, pass in your MySQL information for username and password
 let sequelize;
