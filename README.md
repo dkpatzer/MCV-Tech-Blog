@@ -77,29 +77,34 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 
+![Screenshot React Portfolio Top of Site](![Screenshot React Portfolio Top of Site](https://github.com/dkpatzer/DavidP-React-Portfolio/raw/main/public/images/Screenshot%20React%20Portfolio%20Top%20of%20Site.png))
+
+
+
 
 ## [Check out my deployed website](https://dp-mvc-tech-blog-49f8aee46f52.herokuapp.com/)
+
+
 
 ## Credits
 The MCV Tech Blog was developed by David Patzer as part of the NU coding bootcamp. 
 
 I obtained information from many sources: 
 
-https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/
-https://sequelize.org/
-https://www.npmjs.com/package/sequelize
-https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysqlhttps://www.youtube.com/watch?v=YNyGD4rakmc
-https://developer.mozilla.org/en-US/docs/Glossary/MVC
-https://www.infoworld.com/article/3202764/the-complete-guide-to-nodejs-frameworks.html
-https://dev.mysql.com/doc/refman/8.0/en/data-types.html
-https://www.sitepoint.com/node-js-mvc-application/
-https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql
+-https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/
+-https://sequelize.org/
+-https://www.npmjs.com/package/sequelize
+-https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysqlhttps://www.-youtube.com/watch?v=YNyGD4rakmc
+-https://developer.mozilla.org/en-US/docs/Glossary/MVC
+-https://www.infoworld.com/article/3202764/the-complete-guide-to-nodejs-frameworks.html
+-https://dev.mysql.com/doc/refman/8.0/en/data-types.html
+-https://www.sitepoint.com/node-js-mvc-application/
+-https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql
 - I reviewed the code from the following github repositories:
 -https://github.com/JeffGoji/techblog/tree/main/public/javascript
 -https://github.com/priyaravi23/mvc-tech-blog
 -https://github.com/strossouw/MVC-Tech-Blog
 -https://github.com/strossouw/MVC-Tech-Blog
-
 
 - https://chat.openai.com/: For text verification and assistance.
 -
