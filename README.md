@@ -77,7 +77,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 
-![Screenshot React Portfolio Top of Site](![Screenshot MCV Tech Blog ]()
+![Screenshot React Portfolio Top of Site](![Screenshot MCV Tech Blog ])(https://github.com/dkpatzer/MVC-Tech-Blog/blob/main/images/Screenshot%20(230).png)
 
 
 
