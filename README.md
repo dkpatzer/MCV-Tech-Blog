@@ -3,7 +3,11 @@
 
 ## Description
 
-This is a tech blog using the MCV paradigm. It uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. It is deployed on Heroku. It is responsive and works on mobile devices. It uses Tailwind CSS for styling. It uses Craco for bootstrapping the React application with a pre-configured development environment. 
+This is a tech blog built using the MCV paradigm. It allows users to post bogs about tech interests and readers to make comments and post their own blogs. It includes a login page and a dashboard for users to view their posts and make new posts. It is deployed to Heroku and uses JawsDB to allow mysql database functionality. 
+
+This app was challenging for me to build and required much research and testing. I finally needed to create another directory and GitHub repository by renaming my inital project to get the app to work due to problems with database compatibility. I learned a lot by attempting to change the name of the app and directory, the database, the GitHub repsoitory and redploying the app to Heroku. I  learned a lot about the MCV paradigm, mysql2, sequelize and how to use them to build a full stack app. I also learned how to use JawsDB to allow mysql database functionality on Heroku.
+
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -14,7 +18,16 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
-I began by iinitializing the app ( npm init -y) and installing necessary dependencies.  I made dotenv file and began working on the server.jsfile and the config file. Next I created the models and the routes. I made  views, controllers,a helper's, utils and the public folder, and their respective files, along with a gitignore file. I soent most of my time attempting to connect the routes and handlebars. 
+
+
+I created my repository on Github and included a readme and gitignore for node js (actually I created two due to some issues with the first one). I cloned the repository to my local machine where I used VS Code and gitbash.
+
+I initialized the app ( npm init -y) and installing necessary dependencies (including bcrypt, mysql2, sequelize and connect-session-sequelize, dotenv, epresss, express handlebars and express-session  and
+"jest) and running npm install using the terminal while in the app directory. I was then able to use npm start to launch the application.
+
+ I set up my mysql database and included a db folder with a schema.sql file. I created my database after logging into mysql, and selected it with the USE command. I then  seeded the database.
+ 
+  After adding, commiting, and pushing my work to my GitHub repository, I created my Heroku app linking it with my git repository. I added JawsDB to my Heroku App to allow mysql database functionality. The app was fully deployed to the web page. 
 
 
 ## Usage
@@ -78,9 +91,18 @@ https://www.npmjs.com/package/sequelize
 https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysqlhttps://www.youtube.com/watch?v=YNyGD4rakmc
 https://developer.mozilla.org/en-US/docs/Glossary/MVC
 https://www.infoworld.com/article/3202764/the-complete-guide-to-nodejs-frameworks.html
+https://dev.mysql.com/doc/refman/8.0/en/data-types.html
+https://www.sitepoint.com/node-js-mvc-application/
+https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql
+- I reviewed the code from the following github repositories:
+-https://github.com/JeffGoji/techblog/tree/main/public/javascript
+-https://github.com/priyaravi23/mvc-tech-blog
+-https://github.com/strossouw/MVC-Tech-Blog
+-https://github.com/strossouw/MVC-Tech-Blog
+
 
 - https://chat.openai.com/: For text verification and assistance.
-
+-
 - Finally, I got help from reviewing the answers to the challenge given in the NU coding bootcamp.
 
 
