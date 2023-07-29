@@ -77,12 +77,12 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 
-![Screenshot React Portfolio Top of Site](![Screenshot React Portfolio Top of Site](https://github.com/dkpatzer/DavidP-React-Portfolio/raw/main/public/images/Screenshot%20React%20Portfolio%20Top%20of%20Site.png))
+![Screenshot React Portfolio Top of Site](![Screenshot MCV Tech Blog ]()
 
 
 
 
-## [Check out my deployed website](https://dp-mvc-tech-blog-49f8aee46f52.herokuapp.com/)
+## [Check out my deployed website]()
 
 
 
